@@ -1,5 +1,5 @@
-# Farenheit Converter
-Convertidor simple de Celcius a Farenheit con Python, aplicando un ciclo, caputura de errores y IF/ELSE
+# Celsius to Farenheit Converter
+Convertidor simple de Celsius a Farenheit con Python, aplicando un ciclo, caputura de errores y IF/ELSE
 
 ## Requisitos:
 <ul>
